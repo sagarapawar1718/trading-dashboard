@@ -1,7 +1,7 @@
 import streamlit as st
 import yfinance as yf
-import ta
 import pandas as pd
+import ta
 
 st.title("📊 माझे ट्रेडिंग डॅशबोर्ड")
 stocks = ["RELIANCE.NS", "TCS.NS", "INFY.NS", "SBIN.NS"]
