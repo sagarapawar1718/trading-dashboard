@@ -1,5 +1,5 @@
 Plaintext
 streamlit
 yfinance
-ta
 pandas
+ta
